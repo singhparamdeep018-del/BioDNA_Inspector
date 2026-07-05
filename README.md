@@ -32,15 +32,9 @@ The project ships two interfaces built on the same backend logic:
 
 ---
 
-## 🖼️ Screenshots
 
-> _Add screenshots of each page here._
 
-| Home | DNA Analysis | Graph Dashboard |
-|------|--------------|------------------|
-| `screenshots/home.png` | `screenshots/analysis.png` | `screenshots/graphs.png` |
 
----
 
 ## ⚙️ Installation
 
