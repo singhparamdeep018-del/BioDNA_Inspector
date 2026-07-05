@@ -45,7 +45,7 @@ The project ships two interfaces built on the same backend logic:
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/BioDNA-Inspector.git
+git clone https://github.com/singhparamdeep018-del/BioDNA-Inspector.git
 cd BioDNA-Inspector
 pip install -r requirements.txt
 ```
@@ -117,11 +117,11 @@ BioDNA_Inspector/
 
 ## 👤 Author
 
-**Param**
+**Paramdeep Singh**
 BSc Biotechnology, Chandigarh Group of Colleges (CGC), Jhanjeri, Mohali
 Affiliated with IKGPTU (Punjab Technical University)
 
-GitHub: [github.com/your-username](https://github.com/) *(placeholder — update with your profile)*
+GitHub: [github.com/singhparamdeep018-del](https://github.com/singhparamdeep018-del) 
 
 ---
 
